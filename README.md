@@ -1,4 +1,4 @@
-<img width="1917" height="1142" alt="8" src="https://github.com/user-attachments/assets/406bf175-4976-42de-91a4-05720cf4d0f6" /><img width="1546" height="856" alt="1" src="https://github.com/user-attachments/assets/fef9a607-ee8c-4b89-8ed0-8c19def6bb4b" /># 🏎️ Automotive Executive Sales Dashboard
+# 🏎️ Automotive Executive Sales Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
