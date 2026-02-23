@@ -10,6 +10,10 @@ A high-fidelity, interactive Power BI dashboard designed for the automotive indu
 
 
 
+https://github.com/user-attachments/assets/17486885-cabe-4447-870d-69d1a8f44ae7
+
+
+
 ## 📂 Screen Shots
 <img width="1917" height="1142" alt="8" src="https://github.com/user-attachments/assets/f3842c35-e7ed-4ba0-b53b-decc592a7f86" />
 <img width="1546" height="856" alt="1" src="https://github.com/user-attachments/assets/3cc6c69b-a4c0-45b7-b36b-58c785f45c6e" />
@@ -67,9 +71,9 @@ Open a Pull Request.
 📜 License
 Distributed under the MIT License.
 
-Developed by: [Your Name]
+Developed by: Nimesh Tharaka
 
-Connect: [LinkedIn Profile Link]
+Connect: [www.linkedin.com/in/nimesh-bandaranayake-0a2912304]
 
 
 Would you like me to help you write the **License file** text now?
